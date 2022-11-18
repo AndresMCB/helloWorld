@@ -7,19 +7,19 @@
 one.holdout.cv(dataset, percentTrain = 0.7)
 }
 \arguments{
-\item{dataset}{matriz de datos que contiene muestras en cada una
-de las filas y variables en cada una de las columnas}
+\item{dataset}{Matriz de datos con n muestras (filas)
+y m variables (columnas)}
 
-\item{percentTrain}{numero decimal que corresponde al porcentaje
+\item{percentTrain}{Numero decimal que corresponde al porcentaje
 de muestras deseadas para entrenamiento.}
 }
 \value{
-una lista con dos matrices. training, la matriz de entrenamiento
+Una lista con dos matrices. training, la matriz de entrenamiento
    y testing, la matriz de prueba.
 }
 \description{
-Funcion que recibe un dataset y retorna los sub datasets correspondientes
-a entrenamiento (training) y pruebas (testing)
+Funcion que recibe un dataset y retorna los sub datasets
+correspondientes a entrenamiento (training) y pruebas (testing)
 }
 \examples{
 
