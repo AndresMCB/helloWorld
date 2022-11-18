@@ -13,6 +13,6 @@ myFunction1(x = NULL)
 function to display a message
 }
 \examples{
-myFunction("test paremeter")
+myFunction1("test parameter")
 
 }
