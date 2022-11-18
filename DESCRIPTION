@@ -1,7 +1,7 @@
 Package: helloWorld
 Type: Package
 Title: Test package to demonstrate how to link github and R
-Version: 1.0.0
+Version: 1.1.0
 Author: Andres Mauricio Cifuentes Bernal
 Maintainer: Andres Mauricio Cifuentes Bernal <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
